@@ -7,15 +7,15 @@
 4. At the intermediate level I have **HTML**, **CSS**
 5. 
 ``` 
-function positiveSum(arr) {fsd
-      let sum = 0;
+function positiveSum(arr) {
+  let sum = 0;
     for (let i = 0; i < arr.length; i++) {
       if (arr[i] > 0) {
         sum += arr[i]
       }
     }
-    return sum;
-  }
+  return sum;
+}
 ```
 6. 
 7. Unfinished web development course "Codery"
